@@ -1,0 +1,20 @@
+
+########################################################################
+# Colfax Cluster - https://colfaxresearch.com/
+#      Date:           Mon Nov  5 07:53:47 PST 2018
+#    Job ID:           70991.c008
+#      User:           u21752
+# Resources:           neednodes=1:flat,nodes=1:flat,walltime=00:03:00
+########################################################################
+
+
+[1mNumerical integration with n=1000000000[0m
+[1m Step        Time, ms        GSteps/s        Accuracy[0m
+    1       95510.791           0.010       2.287e-11*
+
+########################################################################
+# Colfax Cluster
+# End of output for job 70991.c008
+# Date: Mon Nov  5 07:57:02 PST 2018
+########################################################################
+
